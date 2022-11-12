@@ -4,11 +4,11 @@
   
     
     <entry>
-      <title>测试页面</title>
-      <link href="blog/done/"/>
-      <url>blog/done/</url>
+      <title>欢迎来到我的小小世界，入站必读</title>
+      <link href="blog/blog/"/>
+      <url>blog/blog/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="关于"><a href="#关于" class="headerlink" title="关于"></a>关于</h1><p>如果你看到此页面，说明你已成功运行并部署此网站。</p><p><img src="1.jpg" alt=""></p><p>你可以查看，以下文档进行自定义设置。</p><blockquote><p>网站修改配置文档：</p></blockquote><a class="btn-beautify button--animated " href="https://guguge.gitee.io/blog/butterfly"   title="链接1"><i class="fas fa-download"></i><span>链接1</span></a><a class="btn-beautify button--animated " href="https://guguge.top/blog/butterfly"   title="链接2"><i class="fas fa-download"></i><span>链接2</span></a><hr><blockquote><p>文章书写格式参考文档：</p></blockquote><a class="btn-beautify button--animated " href="https://guguge.gitee.io/blog/markdown"   title="链接1"><i class="fas fa-download"></i><span>链接1</span></a><a class="btn-beautify button--animated " href="https://guguge.top/blog/markdown"   title="链接2"><i class="fas fa-download"></i><span>链接2</span></a>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="关于本站使用"><a href="#关于本站使用" class="headerlink" title="关于本站使用"></a>关于本站使用</h1><blockquote><p>1、网页顶部点击搜索可以搜索我的博客文章，点击图库可以欣赏我收藏的一些壁纸，美图等</p></blockquote><h2 id=""><a href="#" class="headerlink" title=""></a><img src="blog/002.png" alt=""></h2><blockquote><p>2、如果你看文章看累了你也可以点击网页左下角的音乐播放器，里面有我收藏的好听的歌曲（当然也许对你来说并不能满足你，哈哈），如果你对音乐有什么建议，欢迎你在留言版留言（目前未上线）</p></blockquote><hr><blockquote><p>3、关于本博客网站的搭建，大家可以点击友链—&gt;GuGuGe 大佬的博客，他给了十分详细的搭建教程，后期有机会我也会当独出一期教程，分享一下搭建过程中遇到的坑，欢迎大家回访</p></blockquote>]]></content>
       
       
       
