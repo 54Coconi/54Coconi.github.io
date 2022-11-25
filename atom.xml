@@ -6,7 +6,7 @@
   <link href="http://54coconi.github.io/atom.xml" rel="self"/>
   
   <link href="http://54coconi.github.io/"/>
-  <updated>2022-11-22T17:19:44.938Z</updated>
+  <updated>2022-11-25T08:01:54.683Z</updated>
   <id>http://54coconi.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://54coconi.github.io/posts/c6ea800.html"/>
     <id>http://54coconi.github.io/posts/c6ea800.html</id>
     <published>2022-11-19T17:01:33.000Z</published>
-    <updated>2022-11-22T17:19:44.938Z</updated>
+    <updated>2022-11-25T08:01:54.683Z</updated>
     
     
     
@@ -38,7 +38,7 @@
     <link href="http://54coconi.github.io/posts/e6ddf652.html"/>
     <id>http://54coconi.github.io/posts/e6ddf652.html</id>
     <published>2022-11-19T17:00:55.000Z</published>
-    <updated>2022-11-22T17:19:44.938Z</updated>
+    <updated>2022-11-25T08:01:54.683Z</updated>
     
     
     
@@ -55,7 +55,7 @@
     <link href="http://54coconi.github.io/posts/e43d2c1c.html"/>
     <id>http://54coconi.github.io/posts/e43d2c1c.html</id>
     <published>2022-11-19T17:00:41.000Z</published>
-    <updated>2022-11-22T17:19:44.938Z</updated>
+    <updated>2022-11-25T08:01:54.683Z</updated>
     
     
     
@@ -72,7 +72,7 @@
     <link href="http://54coconi.github.io/posts/c2b75353.html"/>
     <id>http://54coconi.github.io/posts/c2b75353.html</id>
     <published>2022-11-19T17:00:11.000Z</published>
-    <updated>2022-11-22T17:19:44.938Z</updated>
+    <updated>2022-11-25T08:01:54.683Z</updated>
     
     
     
@@ -89,7 +89,7 @@
     <link href="http://54coconi.github.io/posts/4a17b156.html"/>
     <id>http://54coconi.github.io/posts/4a17b156.html</id>
     <published>2022-11-07T10:00:00.000Z</published>
-    <updated>2022-11-22T17:19:44.938Z</updated>
+    <updated>2022-11-25T08:01:54.683Z</updated>
     
     <content type="html"><![CDATA[<hr><p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h1 id="hexo创建文章"><a href="#hexo创建文章" class="headerlink" title="hexo创建文章"></a>hexo创建文章</h1><h3 id="1、创建一个文章"><a href="#1、创建一个文章" class="headerlink" title="1、创建一个文章"></a>1、创建一个文章</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>更多信息请参照: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="2、运行服务"><a href="#2、运行服务" class="headerlink" title="2、运行服务"></a>2、运行服务</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>更多信息请参照: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="3、生成静态文件"><a href="#3、生成静态文件" class="headerlink" title="3、生成静态文件"></a>3、生成静态文件</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
     
