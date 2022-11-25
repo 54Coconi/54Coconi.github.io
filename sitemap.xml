@@ -56,6 +56,15 @@
   </url>
   
   <url>
+    <loc>http://54coconi.github.io/posts/9d52573b.html</loc>
+    
+    <lastmod>2022-11-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://54coconi.github.io/posts/e43d2c1c.html</loc>
     
     <lastmod>2022-11-25</lastmod>
@@ -119,6 +128,13 @@
 
   
   <url>
+    <loc>http://54coconi.github.io/tags/%E8%93%9D%E6%A1%A5%E6%9D%AF/</loc>
+    <lastmod>2022-11-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://54coconi.github.io/tags/C/</loc>
     <lastmod>2022-11-25</lastmod>
     <changefreq>weekly</changefreq>
@@ -147,6 +163,13 @@
   </url>
   
 
+  
+  <url>
+    <loc>http://54coconi.github.io/categories/%E8%93%9D%E6%A1%A5%E6%9D%AF/</loc>
+    <lastmod>2022-11-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
   <url>
     <loc>http://54coconi.github.io/categories/C/</loc>
