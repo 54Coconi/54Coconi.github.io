@@ -8,7 +8,7 @@
       <link href="/posts/c5617d7d.html"/>
       <url>/posts/c5617d7d.html</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<h1 id="Netlify部署个人网站"><a href="#Netlify部署个人网站" class="headerlink" title="Netlify部署个人网站"></a>Netlify部署个人网站</h1><p><a href="https://link.zhihu.com/?target=https%3A//www.netlify.com/">Netlify</a> 是一个提供静态资源网络托管的综合平台，提供CI服务，能够将托管 GitHub，GitLab 等网站上的 Jekyll，Hexo，Hugo 等代码自动编译并生成静态网站。</p><p>Netlify 有如下的功能:</p><ul><li>能够托管服务，免费 CDN</li><li>能够绑定自定义域名</li><li>能够启用免费的TLS证书，启用HTTPS</li><li>支持自动构建</li><li>提供 Webhooks 和 API</li></ul><p>听起来是不是很香，那接下来我教大家如何将自己在本地写好的网页部署到Netlify上👇</p><blockquote><ol><li>首先，打开你的 <strong><a href="https://www.baidu.com">Baidu</a></strong> 浏览器，输入 netlify 关键字并搜索，当然你也可以不用这么麻烦直接点击 <strong><a href="https://www.netlify.com/">Netlify官网</a></strong> 直达主页</li><li>来到下图所示的页面即是成功的进入了网站（感兴趣的懂English的可以看看网站的介绍，话说谁吃的没事干看这玩意儿，小声BB😅），如果你是初次使用<strong>Netlify</strong>则需要注册才能登录（废话），具体步骤参照图片所示</li></ol></blockquote><p><img src="https://s2.loli.net/2022/12/01/RlSh1Xp7kGPFVyW.png" style="zoom:60%;" /></p><p><img src="https://s2.loli.net/2022/12/01/8cCLQBRGUYJISkx.png" alt="2022-12-01_230845"></p><blockquote><ol><li><p>以GitHub登录为例（<strong>强烈建议</strong>）</p><p>注册并登录成功后，你将会看到如下页面，不要慌！！！虽然全是English，但你可以借助Edge自带的翻译功能（Edge真的很强大，有时间单独出一期使用技巧😉）或者用翻译软件、插件翻译。这里我就不一一介绍Netlify的各个功能了，一两句话也说不完，我们主要是把咱们的个人网站给部署到Netlify的免费服务器上让全世界的人们都能通过网址看到网站。废话不多说，开干！！！</p><blockquote><p>1)  点击右上方的绿色按钮 <strong>New site from Git</strong> 按照提示与仓库进行关联</p><p><img src="https://s2.loli.net/2022/12/03/P4vw36ir9CZu7DN.png" alt=""></p><p>2)  选择GiitHub如下图，这时候会弹出授权登录的窗口，直接点击绿色按钮授权就可以</p><p><img src="https://s2.loli.net/2022/12/03/GPaF7V9NmhsAbcz.png" alt=""></p><p><img src="https://s2.loli.net/2022/12/03/qnf3kY48wPuXaAK.png" alt=""></p><p>3) 选中需要部署的GitHub仓库，我这里选择test仓库</p><p><img src="F:/%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2/Netlify%E9%83%A8%E7%BD%B2%E5%8D%9A%E5%AE%A2/img/2022-12-03_015913.png" alt=""></p><p>4) 成功之后会弹出可以预览的地址，点击打开就可以了。以后每一次代码修改之后提交到GitHub就会自动发布</p></blockquote><p>❗❗❗ 注意：如果你的静态网页是<strong>手写</strong>的即非框架生成的，那么在你需要部署网页的GitHub仓库根目录下应该有 <strong><code>index.html</code></strong> 文件，经过实测 <strong><code>index.html</code></strong> 文件<strong>必须</strong>在仓库的<strong>根目录</strong>下而不能在其它文件夹下。例如我的 <strong><code>index.html</code></strong> 在 <code>test/site/</code> 目录下则netlify将无法识别出网页文件，自然的点击netlify提供的二级域名后不会显示出页面</p></li><li><p>直接上传文件到netlify（不推荐）</p><p>当然你也可以直接上传文件到netlify，但是这样当你需要改动网页内容时就会变得十分麻烦，适合长时间不改动的页面显示，具体步骤如下图</p><p>选择添加新页面</p><blockquote><p><img src="https://s2.loli.net/2022/12/03/RbNyOhpGWuv97Hj.png" alt=""></p><p>选择手动部署</p><p><img src="https://s2.loli.net/2022/12/03/P2WI8c4kpUVgTdu.png" alt=""></p><p>拖放你的网站输出文件夹（注意：这里是文件夹，该文件夹为默认根目录，故 <code>index.html</code> 应该在其下）到圆圈中或者浏览并上传，如下图</p><p><img src="https://s2.loli.net/2022/12/03/PCcfk87bwJBohuK.png" alt=""></p></blockquote></li></ol></blockquote><p>至此，使用netlify简单部署网页结束</p>]]></content>
       
       
       <categories>
@@ -192,6 +192,17 @@
     
     
     <entry>
+      <title>分类</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title></title>
       <link href="/css/categorybar.css"/>
       <url>/css/categorybar.css</url>
@@ -219,17 +230,6 @@
       <url>/css/universe.css</url>
       
         <content type="html"><![CDATA[/* 背景宇宙星光  */#universe{  display: block;  position: fixed;  margin: 0;  padding: 0;  border: 0;  outline: 0;  left: 0;  top: 0;  width: 100%;  height: 100%;  pointer-events: none;  /* 这个是调置顶的优先级的，-1在文章页下面，背景上面，个人推荐这种 */  z-index: -1;}]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>分类</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
