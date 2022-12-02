@@ -291,11 +291,11 @@
     
     
     <entry>
-      <title>音乐</title>
+      <title>音乐馆</title>
       <link href="/music/index.html"/>
       <url>/music/index.html</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<h2>我的音乐收藏</h2><h3 id="万物有灵-✨"><a href="#万物有灵-✨" class="headerlink" title="万物有灵 ✨"></a>万物有灵 ✨</h3>  <div class="aplayer no-destroy" data-id="7692780743" data-server="tencent" data-type="playlist"   data-order="list" data-preload="auto" data-autoplay="false" data-mutex="true" ></div>]]></content>
       
     </entry>
     
